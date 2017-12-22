@@ -12,6 +12,7 @@ namespace VotingWeb.Controllers
         public IActionResult Index()
         {
             return this.View();
+
         }
 
         public IActionResult Error()
